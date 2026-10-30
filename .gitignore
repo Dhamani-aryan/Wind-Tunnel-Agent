@@ -1,0 +1,10 @@
+dist/
+site.tar.gz
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+coverage/
+artifacts/
+.local-state/
